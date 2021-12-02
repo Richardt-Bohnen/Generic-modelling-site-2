@@ -3,4 +3,5 @@ body{
     padding: 0;
     background-color: pink;
     text-align: center;
+    height: 100vh;
 }
